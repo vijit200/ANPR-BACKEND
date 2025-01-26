@@ -30,12 +30,10 @@ CORS(app)
 # dist_folder = os.path.join(frontend_folder,"dist")
 
 # # Server static files from the "dist" folder under the "frontend" directory
-# @app.route("/",defaults={"filename":""})
+@app.route("/")
 # @app.route("/<path:filename>")
-# def index(filename):
-#   if not filename:
-#     filename = "index.html"
-#   return send_from_directory(dist_folder,filename)
+def index():
+  return render_template("index.html")
 
 
 class ClientApp:
