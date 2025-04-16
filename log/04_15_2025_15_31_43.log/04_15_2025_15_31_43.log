@@ -1,0 +1,37 @@
+[2025-04-15 15:31:46,864] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.134.84:8000
+[2025-04-15 15:31:46,864] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2025-04-15 15:33:02,814] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:02] "GET /?code=Rn7VEyjrqc59ojVCkMc25xwW2MBhHnSLdkbE0gmmRyGWP&state=QXk2OGJ3SGNYOFpYblc2Q2JxS1RicFU2akdHfmlaVVlld0pxWllKbzYxZQ%3D%3D HTTP/1.1" 200 -
+[2025-04-15 15:33:02,956] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:02] "GET /assets/index-BIaB_o_P.css HTTP/1.1" 200 -
+[2025-04-15 15:33:03,090] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:03] "GET /assets/index-BIaUfVWH.js HTTP/1.1" 200 -
+[2025-04-15 15:33:03,193] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:03] "GET /assets/favicon1-CuXVfLKm.png HTTP/1.1" 200 -
+[2025-04-15 15:33:03,257] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:03] "GET /assets/loader-CvC7_M3u.gif HTTP/1.1" 200 -
+[2025-04-15 15:33:06,277] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:06] "GET /assets/image-DCvl1lay.png HTTP/1.1" 200 -
+[2025-04-15 15:33:06,364] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:06] "GET /assets/team-BZXBfQlT.jpg HTTP/1.1" 200 -
+[2025-04-15 15:33:06,366] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:06] "[35m[1mGET /assets/video-D8T4UJui.mp4 HTTP/1.1[0m" 206 -
+[2025-04-15 15:33:06,438] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:06] "GET /assets/vision-Bz24zzTi.jpg HTTP/1.1" 200 -
+[2025-04-15 15:33:06,490] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:06] "GET /assets/img-DpRMJnI9.jpg HTTP/1.1" 200 -
+[2025-04-15 15:33:06,510] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:06] "GET /assets/key-BfKXh8FA.png HTTP/1.1" 200 -
+[2025-04-15 15:33:31,825] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:31] "GET /assets/formLogo-CSmAHZY2.jpg HTTP/1.1" 200 -
+[2025-04-15 15:33:34,653] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:34] "GET /?code=vnKMdPU1qDbOEXOqNGHjiu1jK07K6avfQzDCZsoR3kJ2Y&state=ZEFIdHZ2T2dlUVVsU2pyTnpvWkpzMFBaRlhvU0xvRl9zNG9kbWU3bjIuSQ%3D%3D HTTP/1.1" 200 -
+[2025-04-15 15:33:34,680] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:34] "[36mGET /assets/index-BIaUfVWH.js HTTP/1.1[0m" 304 -
+[2025-04-15 15:33:34,689] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:34] "[36mGET /assets/index-BIaB_o_P.css HTTP/1.1[0m" 304 -
+[2025-04-15 15:33:34,752] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:34] "[36mGET /assets/loader-CvC7_M3u.gif HTTP/1.1[0m" 304 -
+[2025-04-15 15:33:37,811] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:37] "[36mGET /assets/team-BZXBfQlT.jpg HTTP/1.1[0m" 304 -
+[2025-04-15 15:33:37,812] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:37] "[36mGET /assets/image-DCvl1lay.png HTTP/1.1[0m" 304 -
+[2025-04-15 15:33:37,813] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:37] "[36mGET /assets/img-DpRMJnI9.jpg HTTP/1.1[0m" 304 -
+[2025-04-15 15:33:37,814] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:37] "[36mGET /assets/vision-Bz24zzTi.jpg HTTP/1.1[0m" 304 -
+[2025-04-15 15:33:37,817] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:37] "[36mGET /assets/key-BfKXh8FA.png HTTP/1.1[0m" 304 -
+[2025-04-15 15:33:37,848] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:37] "[35m[1mGET /assets/video-D8T4UJui.mp4 HTTP/1.1[0m" 206 -
+[2025-04-15 15:33:40,641] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:33:40] "GET /assets/cam-DZ3SZHQ-.png HTTP/1.1" 200 -
+[2025-04-15 15:34:06,250] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:34:06] "[36mGET /assets/loader-CvC7_M3u.gif HTTP/1.1[0m" 304 -
+[2025-04-15 15:34:11,495] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:34:11] "GET /video_feed HTTP/1.1" 200 -
+[2025-04-15 15:34:50,807] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:34:50] "[36mGET /assets/img-DpRMJnI9.jpg HTTP/1.1[0m" 304 -
+[2025-04-15 15:34:50,808] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:34:50] "[36mGET /assets/team-BZXBfQlT.jpg HTTP/1.1[0m" 304 -
+[2025-04-15 15:34:50,811] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:34:50] "[36mGET /assets/vision-Bz24zzTi.jpg HTTP/1.1[0m" 304 -
+[2025-04-15 15:34:50,819] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:34:50] "[36mGET /assets/key-BfKXh8FA.png HTTP/1.1[0m" 304 -
+[2025-04-15 15:34:50,821] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:34:50] "[35m[1mGET /assets/video-D8T4UJui.mp4 HTTP/1.1[0m" 206 -
+[2025-04-15 15:35:25,777] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:35:25] "[36mGET /assets/loader-CvC7_M3u.gif HTTP/1.1[0m" 304 -
+[2025-04-15 15:35:40,556] werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 15:35:40] "POST /text HTTP/1.1" 200 -

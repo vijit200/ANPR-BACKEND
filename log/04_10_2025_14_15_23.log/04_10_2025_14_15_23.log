@@ -1,0 +1,32 @@
+[2025-04-10 14:15:28,507] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.134.81:8000
+[2025-04-10 14:15:28,507] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2025-04-10 14:15:38,886] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:38] "[33mGET /Register HTTP/1.1[0m" 404 -
+[2025-04-10 14:15:39,189] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:39] "[33mGET /Register HTTP/1.1[0m" 404 -
+[2025-04-10 14:15:39,252] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-10 14:15:42,382] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:42] "GET / HTTP/1.1" 200 -
+[2025-04-10 14:15:42,413] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:42] "GET /assets/index-BIaB_o_P.css HTTP/1.1" 200 -
+[2025-04-10 14:15:42,544] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:42] "GET /assets/index-BIaUfVWH.js HTTP/1.1" 200 -
+[2025-04-10 14:15:42,597] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:42] "GET / HTTP/1.1" 200 -
+[2025-04-10 14:15:42,655] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:42] "GET /assets/loader-CvC7_M3u.gif HTTP/1.1" 200 -
+[2025-04-10 14:15:45,688] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:45] "GET /assets/image-DCvl1lay.png HTTP/1.1" 200 -
+[2025-04-10 14:15:45,688] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:45] "GET /assets/img-DpRMJnI9.jpg HTTP/1.1" 200 -
+[2025-04-10 14:15:45,690] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:45] "GET /assets/team-BZXBfQlT.jpg HTTP/1.1" 200 -
+[2025-04-10 14:15:45,691] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:45] "GET /assets/key-BfKXh8FA.png HTTP/1.1" 200 -
+[2025-04-10 14:15:45,692] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:45] "GET /assets/vision-Bz24zzTi.jpg HTTP/1.1" 200 -
+[2025-04-10 14:15:45,749] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:45] "[35m[1mGET /assets/video-D8T4UJui.mp4 HTTP/1.1[0m" 206 -
+[2025-04-10 14:15:50,448] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:50] "GET /assets/formLogo-CSmAHZY2.jpg HTTP/1.1" 200 -
+[2025-04-10 14:15:55,094] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:55] "GET /?code=GvqRAVQLsxdZog1Ej8aGrGTmyGsumYIYauETo_2r5_-nJ&state=VXFVTUhrMmRzb0lFZURXYU5YLXNJQkkxTVpqTnd3N2hNZGlWWHFlckRaTQ%3D%3D HTTP/1.1" 200 -
+[2025-04-10 14:15:55,155] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:55] "[36mGET /assets/index-BIaB_o_P.css HTTP/1.1[0m" 304 -
+[2025-04-10 14:15:55,158] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:55] "[36mGET /assets/index-BIaUfVWH.js HTTP/1.1[0m" 304 -
+[2025-04-10 14:15:55,345] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:55] "GET /?code=GvqRAVQLsxdZog1Ej8aGrGTmyGsumYIYauETo_2r5_-nJ&state=VXFVTUhrMmRzb0lFZURXYU5YLXNJQkkxTVpqTnd3N2hNZGlWWHFlckRaTQ%3D%3D HTTP/1.1" 200 -
+[2025-04-10 14:15:55,507] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:55] "[36mGET /assets/loader-CvC7_M3u.gif HTTP/1.1[0m" 304 -
+[2025-04-10 14:15:58,439] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:58] "[36mGET /assets/image-DCvl1lay.png HTTP/1.1[0m" 304 -
+[2025-04-10 14:15:58,461] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:58] "[36mGET /assets/img-DpRMJnI9.jpg HTTP/1.1[0m" 304 -
+[2025-04-10 14:15:58,469] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:58] "[36mGET /assets/team-BZXBfQlT.jpg HTTP/1.1[0m" 304 -
+[2025-04-10 14:15:58,474] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:58] "[36mGET /assets/vision-Bz24zzTi.jpg HTTP/1.1[0m" 304 -
+[2025-04-10 14:15:58,478] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:58] "[36mGET /assets/key-BfKXh8FA.png HTTP/1.1[0m" 304 -
+[2025-04-10 14:15:58,486] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:15:58] "[35m[1mGET /assets/video-D8T4UJui.mp4 HTTP/1.1[0m" 206 -
+[2025-04-10 14:16:11,044] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:16:11] "[36mGET /assets/index-BIaB_o_P.css HTTP/1.1[0m" 304 -

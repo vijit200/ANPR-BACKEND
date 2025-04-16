@@ -1,0 +1,18 @@
+[2025-04-10 14:12:06,599] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.134.81:8000
+[2025-04-10 14:12:06,600] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2025-04-10 14:12:12,219] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:12] "GET / HTTP/1.1" 200 -
+[2025-04-10 14:12:12,276] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:12] "GET /assets/index-BIaB_o_P.css HTTP/1.1" 200 -
+[2025-04-10 14:12:12,467] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:12] "GET /assets/index-Z7yjdaXk.js HTTP/1.1" 200 -
+[2025-04-10 14:12:12,930] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:12] "GET / HTTP/1.1" 200 -
+[2025-04-10 14:12:14,117] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:14] "GET /assets/favicon1-CuXVfLKm.png HTTP/1.1" 200 -
+[2025-04-10 14:12:15,524] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:15] "GET /assets/loader-CvC7_M3u.gif HTTP/1.1" 200 -
+[2025-04-10 14:12:16,091] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:16] "GET /assets/image-DCvl1lay.png HTTP/1.1" 200 -
+[2025-04-10 14:12:16,091] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:16] "GET /assets/img-DpRMJnI9.jpg HTTP/1.1" 200 -
+[2025-04-10 14:12:16,091] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:16] "GET /assets/team-BZXBfQlT.jpg HTTP/1.1" 200 -
+[2025-04-10 14:12:16,093] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:16] "GET /assets/key-BfKXh8FA.png HTTP/1.1" 200 -
+[2025-04-10 14:12:16,093] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:16] "GET /assets/vision-Bz24zzTi.jpg HTTP/1.1" 200 -
+[2025-04-10 14:12:16,765] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:16] "[35m[1mGET /assets/video-D8T4UJui.mp4 HTTP/1.1[0m" 206 -
+[2025-04-10 14:12:48,231] werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:48] "GET /assets/formLogo-CSmAHZY2.jpg HTTP/1.1" 200 -
