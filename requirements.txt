@@ -69,6 +69,7 @@ jupyterlab==4.0.0a30
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 kiwisolver==1.4.7
+
 MarkupSafe==3.0.2
 matplotlib==3.9.4
 matplotlib-inline==0.1.7
@@ -79,6 +80,7 @@ nbconvert==7.16.4
 nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.2.1
+notebook==7.0.0a7
 notebook-shim==0.1.0
 numpy==2.0.2
 opencv-python==4.10.0.84
@@ -145,73 +147,7 @@ Werkzeug==3.1.3
 y-py==0.5.9
 ypy-websocket==0.3.2
 zipp==3.21.0
-dill==0.3.5.1
-from-root==1.0.2
-notebook==7.0.0a7
-gdown
-flask-cors
-flask
-gunicorn
-
-
-# YOLOv5 requirements
-# Usage: pip install -r requirements.txt
-
-# Base ------------------------------------------------------------------------
-gitpython>=3.1.30
-matplotlib>=3.3
-numpy>=1.23.5
-opencv-python>=4.1.1
-pillow>=10.3.0
-psutil  # system resources
-PyYAML>=5.3.1
-requests>=2.32.0
-scipy>=1.4.1
-thop>=0.1.1  # FLOPs computation
-torch>=1.8.0  # see https://pytorch.org/get-started/locally (recommended)
-torchvision>=0.9.0
-tqdm>=4.64.0
-ultralytics>=8.2.34  # https://ultralytics.com
-# protobuf<=3.20.1  # https://github.com/ultralytics/yolov5/issues/8012
-
-# Logging ---------------------------------------------------------------------
-# tensorboard>=2.4.1
-# clearml>=1.2.0
-# comet
-
-# Plotting --------------------------------------------------------------------
-pandas>=1.1.4
-seaborn>=0.11.0
-
-# Export ----------------------------------------------------------------------
-# coremltools>=6.0  # CoreML export
-# onnx>=1.10.0  # ONNX export
-# onnx-simplifier>=0.4.1  # ONNX simplifier
-# nvidia-pyindex  # TensorRT export
-# nvidia-tensorrt  # TensorRT export
-# scikit-learn<=1.1.2  # CoreML quantization
-# tensorflow>=2.4.0,<=2.13.1  # TF exports (-cpu, -aarch64, -macos)
-# tensorflowjs>=3.9.0  # TF.js export
-# openvino-dev>=2023.0  # OpenVINO export
-
-# Deploy ----------------------------------------------------------------------
-setuptools>=70.0.0 # Snyk vulnerability fix
-# tritonclient[all]~=2.24.0
-
-# Extras ----------------------------------------------------------------------
-# ipython  # interactive notebook
-# mss  # screenshots
-# albumentations>=1.0.3c
-# pip install --upgrade protobuf
-# pip install google-generativeai
-# pycocotools>=2.0.6  # COCO mAP
-#  ocr
-
-google-generativeai
-protobuf
-
-# database
-pymongo
+setuptools>=70.0.0
 boto3
 
 -e .
