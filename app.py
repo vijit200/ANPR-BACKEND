@@ -299,5 +299,4 @@ def video_feed():
      
 if __name__ == "__main__":
     clApp = ClientApp()
-    port = int(os.environ.get("PORT", 5000))  # Use Render's PORT or default for local
-    app.run(host=APP_HOST, port=port)
+    app.run(debug=True)
